@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Data Science enthusiast from India. Besides that, I am also an intermediate frontend developer always on the lookout for new opportunities and interesting projects to hone my skills.</h3>
 
-- 🔭 I’m currently working on [An all-in-one movie recommendation platform](github.com/abhishekg495/RecommenderSystem)
+- 🔭 I’m currently working on Data Structures and Algorithms
 
 - 📫 How to reach me *abhishekgupta23810306@gmail.com*
 
