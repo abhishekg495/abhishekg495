@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
-<h3 align="center">A passionate Data Science enthusiast from India. Besides that, I am also an intermediate frontend developer always on the lookout for new opportunities and interesting projects to hone my skills.</h3>
+<h3 align="center">A passionate Data Science enthusiast from India. Besides that, I am also an intermediate full stack developer always on the lookout for new opportunities and interesting projects to hone my skills.</h3>
 
 - 🔭 I’m currently working on Data Structures and Algorithms
 
